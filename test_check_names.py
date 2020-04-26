@@ -1,5 +1,5 @@
 import pytest
-from check_names import get_last_name_from_attendance, check_attendance
+from check_attendance import get_last_name_from_attendance, check_attendance
 
 
 def test_get_last_name_schellekens():
